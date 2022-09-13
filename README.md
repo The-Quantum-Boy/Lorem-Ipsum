@@ -1,0 +1,3 @@
+###Lorem Ipsum
+
+This is project that generate the paragraph based on the count(input)...
